@@ -31,6 +31,4 @@ If you wish to reference this work in your own research, please use the followin
 ## 📬 Contact
 For questions, suggestions, or collaboration opportunities:
 
-Open an issue in this repository
-
 Connect via [LinkedIn](https://www.linkedin.com/in/seabralorena/)
